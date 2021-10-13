@@ -13,8 +13,5 @@ TODO: Write a business/team/entity description
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## Credits
-
-TODO: Write credits
 
 ## License
